@@ -1,6 +1,8 @@
 trigger:
 - '*'
 
+pool: Default
+
 variables:
   buildConfiguration: 'Release'
   releaseBranchName: 'release'
